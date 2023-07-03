@@ -1,14 +1,19 @@
-# Expo Router Example
+# Job Search Application with React Native
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+This project is a job search application developed using React Native. The main objective of this project is to learn the framework and cross-platform development, while building a functional tool for searching job opportunities.
 
-## 🚀 How to use
+## Features
 
-```sh
-npx create-expo-app -e with-router
-```
+- Intuitive and attractive user interface.
+- Job search by title, location, and keywords.
+- Advanced filters to refine search results.
+- Listing of job opportunities with relevant details.
+- Integration with third-party services to fetch job data (e.g., job search API).
 
-## 📝 Notes
+## License
 
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+# Thank you
+
+ For your interest in this project! We hope it serves as an educational and useful experience in your learning of React Native and cross-platform development.
